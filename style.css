@@ -53,6 +53,7 @@
 }
 .info p {
   font-size: small;
+  width: 50%;
 }
 .storage {
   margin-top: 20px;
